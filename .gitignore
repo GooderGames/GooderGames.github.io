@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+tmp/
+out-tsc/
+
+# Angular build files
+*.ngfactory.ts
+*.ngstyle.ts
+
+# IDE and editor folders
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment configuration files
+.environment.local
+.environment.dev
+.environment.prod
+
+# Optional: Exclude specific project files
+# src/environments/environment.ts
